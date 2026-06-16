@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shubh%20Pandey&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%26%20Site%20Reliability%20Engineer%20%7C%205%20Years%20Experience&descAlignY=55&descSize=18" width="100%" />
+![Shubh Pandey — DevOps & SRE Engineer](https://raw.githubusercontent.com/Shubh-Pandey99/Shubh-Pandey99/main/assets/banner.png)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=DevOps+%26+Site+Reliability+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Kubernetes;99.9%25+Availability+%E2%80%94+Built+for+Scale+%F0%9F%9A%80;5+Years+of+Cloud-Native+Engineering+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=DevOps+%26+Site+Reliability+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Kubernetes;99.9%25+Availability+%E2%80%94+Built+for+Scale+%F0%9F%9A%80;5+Years+of+Cloud-Native+Engineering+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -99,14 +99,14 @@ shubh = {
 
 <div align="center">
 
-| Project | Description | Stack | Link |
+| Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🎓 **[music-teacher-app](https://github.com/Shubh-Pandey99/music-teacher-app)** | TeacherPro — SaaS attendance & performance management for classrooms | Next.js · TypeScript · Prisma · Vercel | [GitHub](https://github.com/Shubh-Pandey99/music-teacher-app) |
-| ✨ **[3d-portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)** | Interactive 3D developer portfolio with WebGL animations | Three.js · React · TypeScript | [GitHub](https://github.com/Shubh-Pandey99/3d-portfolio) |
-| ✍️ **[scribe](https://github.com/Shubh-Pandey99/scribe)** | AI-powered writing assistant Chrome extension with Python API backend | Python · FastAPI · OpenAI | [GitHub](https://github.com/Shubh-Pandey99/scribe) |
-| ☁️ **[accor-assessment](https://github.com/Shubh-Pandey99/accor-assessment)** | Production-grade EKS cluster on AWS using Terraform + Kubernetes | Terraform · AWS · EKS | [GitHub](https://github.com/Shubh-Pandey99/accor-assessment) |
-| 🔧 **[Terraform](https://github.com/Shubh-Pandey99/Terraform)** | Reusable IaC modules for AWS multi-environment deployments | Terraform · HCL · AWS | [GitHub](https://github.com/Shubh-Pandey99/Terraform) |
-| 📰 **[vibernews-time-machine](https://github.com/Shubh-Pandey99/vibernews-time-machine)** | Browse Hacker News as it appeared on any past date | Bash · Shell · CLI | [GitHub](https://github.com/Shubh-Pandey99/vibernews-time-machine) |
+| 🎓 **[music-teacher-app](https://github.com/Shubh-Pandey99/music-teacher-app)** | TeacherPro — SaaS platform for teachers to manage attendance, track student performance & classroom ops | Next.js · TypeScript · Prisma | [▶ Live](https://dynamic-filament.vercel.app/) |
+| 🗂️ **[portfolio](https://github.com/Shubh-Pandey99/portfolio)** | DevOps & SRE personal portfolio — projects, skills, experience | React · JavaScript · Vercel | [▶ Live](https://portfolio-six-murex-ggybbly68c.vercel.app/) |
+| ✍️ **[scribe](https://github.com/Shubh-Pandey99/scribe)** | AI writing & meeting assistant Chrome extension with FastAPI backend | Python · FastAPI · OpenAI | [▶ Live](https://usescribe.vercel.app/api) |
+| ✨ **[3d-portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)** | Interactive 3D developer portfolio with WebGL animations *(beta)* | Three.js · React · TypeScript | — |
+| ☁️ **[accor-assessment](https://github.com/Shubh-Pandey99/accor-assessment)** | Production-grade EKS cluster on AWS — Terraform + Kubernetes + Helm | Terraform · AWS · EKS | — |
+| 🔧 **[Terraform](https://github.com/Shubh-Pandey99/Terraform)** | Reusable IaC modules for AWS multi-environment cloud infrastructure | Terraform · HCL · AWS | — |
 
 </div>
 
@@ -135,14 +135,8 @@ shubh = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhpandey9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-six-murex-ggybbly68c.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-six-murex-ggybbly68c.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubh-Pandey99)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhpandet@gmail.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
