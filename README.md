@@ -2,17 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Shubh%20Pandey&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=DevOps%20%26%20Site%20Reliability%20Engineer%20%7C%205%20Years%20Experience&amp;descAlignY=55&amp;descSize=18" width="100%" />
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=DevOps+%26+Site+Reliability+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Kubernetes;99.9%25+Availability+%E2%80%94+Built+for+Scale+%F0%9F%9A%80;5+Years+of+Cloud-Native+Engineering+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Shubh-Pandey99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Shubh-Pandey99&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=FF9900&amp;icon_color=FF9900&amp;text_color=c9d1d9&amp;bg_color=0d1117" />
 
 ### 👋 About Me
 
@@ -27,7 +23,7 @@ shubh = {
     "containers": ["Docker", "Kubernetes", "EKS", "GKE", "AKS"],
     "cicd":       ["GitHub Actions", "GitLab CI", "Jenkins", "Buildkite"],
     "observ":     ["Datadog", "Prometheus", "New Relic", "CloudWatch"],
-    "superpower": "99.9% uptime & 20% infra cost reduction 💪",
+    "superpower": "99.9% uptime + 20% infra cost reduction 💪",
 }
 ```
 
@@ -45,7 +41,7 @@ shubh = {
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**Infrastructure & Containers**
+**Infrastructure and Containers**
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -53,20 +49,20 @@ shubh = {
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-**CI/CD & DevOps**
+**CI/CD and DevOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Observability & Monitoring**
+**Observability and Monitoring**
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
 
-**Languages & Frameworks**
+**Languages and Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -101,9 +97,9 @@ shubh = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🎓 **[music-teacher-app](https://github.com/Shubh-Pandey99/music-teacher-app)** | TeacherPro — SaaS platform for teachers to manage attendance, track student performance & classroom ops | Next.js · TypeScript · Prisma | [▶ Live](https://dynamic-filament.vercel.app/) |
-| 🗂️ **[portfolio](https://github.com/Shubh-Pandey99/portfolio)** | DevOps & SRE personal portfolio — projects, skills, experience | React · JavaScript · Vercel | [▶ Live](https://portfolio-six-murex-ggybbly68c.vercel.app/) |
-| ✍️ **[scribe](https://github.com/Shubh-Pandey99/scribe)** | AI writing & meeting assistant Chrome extension with FastAPI backend | Python · FastAPI · OpenAI | [▶ Live](https://usescribe.vercel.app/api) |
+| 🎓 **[music-teacher-app](https://github.com/Shubh-Pandey99/music-teacher-app)** | TeacherPro — SaaS platform for teachers to manage attendance, track student performance and classroom ops | Next.js · TypeScript · Prisma | [▶ Live](https://dynamic-filament.vercel.app/) |
+| 🗂️ **[portfolio](https://github.com/Shubh-Pandey99/portfolio)** | DevOps and SRE personal portfolio — projects, skills, experience | React · JavaScript · Vercel | [▶ Live](https://portfolio-six-murex-ggybbly68c.vercel.app/) |
+| ✍️ **[scribe](https://github.com/Shubh-Pandey99/scribe)** | AI writing and meeting assistant Chrome extension with FastAPI backend | Python · FastAPI · OpenAI | [▶ Live](https://usescribe.vercel.app/api) |
 | ✨ **[3d-portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)** | Interactive 3D developer portfolio with WebGL animations *(beta)* | Three.js · React · TypeScript | — |
 | ☁️ **[accor-assessment](https://github.com/Shubh-Pandey99/accor-assessment)** | Production-grade EKS cluster on AWS — Terraform + Kubernetes + Helm | Terraform · AWS · EKS | — |
 | 🔧 **[Terraform](https://github.com/Shubh-Pandey99/Terraform)** | Reusable IaC modules for AWS multi-environment cloud infrastructure | Terraform · HCL · AWS | — |
@@ -116,13 +112,9 @@ shubh = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Pandey99&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9900&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Pandey99&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=FF9900&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;langs_count=8" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Shubh-Pandey99&theme=tokyonight&hide_border=true&background=0d1117&ring=FF9900&fire=FF4500&currStreakLabel=FF9900" />
-
-</div>
-
-<div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Shubh-Pandey99&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=FF9900&amp;fire=FF4500&amp;currStreakLabel=FF9900" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubh-Pandey99&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS)
 
