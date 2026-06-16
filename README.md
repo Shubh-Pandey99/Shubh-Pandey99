@@ -97,12 +97,12 @@ shubh = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🎓 **[music-teacher-app](https://github.com/Shubh-Pandey99/music-teacher-app)** | TeacherPro — SaaS platform for managing attendance, tracking student performance | Next.js · TypeScript · Prisma | [▶ Live](https://dynamic-filament.vercel.app/) |
-| 🗂️ **[portfolio](https://github.com/Shubh-Pandey99/portfolio)** | DevOps and SRE personal portfolio — projects, skills, experience | React · JavaScript · Vercel | [▶ Live](https://portfolio-six-murex-ggybbly68c.vercel.app/) |
-| ✍️ **[scribe](https://github.com/Shubh-Pandey99/scribe)** | AI writing and meeting assistant Chrome extension with FastAPI backend | Python · FastAPI · OpenAI | [▶ Live](https://usescribe.vercel.app/api) |
-| ✨ **[3d-portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)** | Interactive 3D developer portfolio with WebGL animations *(beta)* | Three.js · React · TypeScript | — |
-| ☁️ **[accor-assessment](https://github.com/Shubh-Pandey99/accor-assessment)** | Production-grade EKS cluster on AWS — Terraform + Kubernetes + Helm | Terraform · AWS · EKS | — |
-| 🔧 **[Terraform](https://github.com/Shubh-Pandey99/Terraform)** | Reusable IaC modules for AWS multi-environment cloud infrastructure | Terraform · HCL · AWS | — |
+| 🎓 **music-teacher-app** | TeacherPro — SaaS platform for managing attendance, tracking student performance | Next.js · TypeScript · Prisma | [▶ Live](https://dynamic-filament.vercel.app/) |
+| 🗂️ **portfolio** | DevOps and SRE personal portfolio — projects, skills, experience | React · JavaScript · Vercel | [▶ Live](https://portfolio-six-murex-ggybbly68c.vercel.app/) |
+| ✍️ **scribe** | AI writing and meeting assistant Chrome extension with FastAPI backend | Python · FastAPI · OpenAI | [▶ Live](https://usescribe.vercel.app/api) |
+| ✨ **3d-portfolio** | Interactive 3D developer portfolio with WebGL animations *(beta)* | Three.js · React · TypeScript | *(Beta — Local Only)* |
+| ☁️ **accor-assessment** | Production-grade EKS cluster on AWS — Terraform + Kubernetes + Helm | Terraform · AWS · EKS | — |
+| 🔧 **Terraform** | Reusable IaC modules for AWS multi-environment cloud infrastructure | Terraform · HCL · AWS | — |
 
 ---
 
