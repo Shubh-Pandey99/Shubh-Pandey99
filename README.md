@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shubh Pandey — DevOps & SRE Engineer](https://raw.githubusercontent.com/Shubh-Pandey99/Shubh-Pandey99/main/assets/banner.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shubh%20Pandey&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%26%20Site%20Reliability%20Engineer%20%7C%205%20Years%20Experience&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
