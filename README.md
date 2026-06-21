@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a2744,100:0d1117&height=220&section=header&text=Shubh%20Pandey&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=55&stroke=6366F1&strokeWidth=2&desc=Senior%20Cloud%20%26%20Site%20Reliability%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descSize=17&descAlignY=75&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a2744,100:0d1117&height=220&section=header&text=Shubh%20Pandey&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=55&stroke=6366F1&strokeWidth=2&desc=Senior%20Cloud%20and%20Site%20Reliability%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descSize=17&descAlignY=75&descColor=94a3b8" width="100%" />
 
 <br/>
 
