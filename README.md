@@ -14,10 +14,6 @@
 
 ---
 
-<table border="0" width="100%">
-<tr>
-<td width="56%" valign="top">
-
 ## `$ whoami`
 
 ```yaml
@@ -49,69 +45,16 @@ specialisations:
 certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 ```
 
-</td>
-<td width="44%" valign="top" align="center">
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shubh-Pandey99&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=6366F1&icon_color=8B5CF6&text_color=94a3b8&bg_color=00000000&rank_icon=github" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh-Pandey99&theme=dark&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideNums=94a3b8&currStreakNum=e2e8f0&sideLabels=94a3b8&dates=64748b" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Impact
-
 <div align="center">
 
-<table border="0">
-<tr>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/99.9%25-SLA%20Maintained-6366F1?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>500+ global enterprise customers at Thales</sub>
-</td>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/20%25-Infra%20Cost%20Cut-8B5CF6?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>IBM Sterling containerisation on EKS</sub>
-</td>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/40%25-Deploy%20Time%20Reduced-A78BFA?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>Ansible across 10+ servers at Thales</sub>
-</td>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/28%25-Cloud%20Downtime%20Cut-C4B5FD?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS auto-scaling and fault tolerance</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/30%25-UI%20Perf%20Gain-818CF8?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>Vue.js on S3 plus CloudFront at Thales</sub>
-</td>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/29%25-Build%20Failures%20Fixed-7C3AED?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS credential retry fix in Shipper at REA</sub>
-</td>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/100%25-OIDC%20CI%20Adoption-4F46E5?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>Zero static AWS keys in Kubernetes CI</sub>
-</td>
-<td align="center" width="190">
-<img src="https://img.shields.io/badge/11-Cloud%20Certifications-6D28D9?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS x8, GCP, Azure, Datadog — all verified</sub>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubh-Pandey99&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=6366F1&icon_color=8B5CF6&text_color=94a3b8&bg_color=00000000&rank_icon=github" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh-Pandey99&theme=dark&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideNums=94a3b8&currStreakNum=e2e8f0&sideLabels=94a3b8&dates=64748b" />
 
 </div>
 
 ---
+
 
 ## Tech Stack
 
