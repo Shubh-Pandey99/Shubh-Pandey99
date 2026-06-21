@@ -12,7 +12,11 @@
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## `$ whoami`
 
@@ -47,13 +51,17 @@ certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubh-Pandey99&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=6366F1&icon_color=8B5CF6&text_color=94a3b8&bg_color=00000000&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shubh-Pandey99&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh-Pandey99&theme=dark&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideNums=94a3b8&currStreakNum=e2e8f0&sideLabels=94a3b8&dates=64748b" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh-Pandey99&theme=radical&hide_border=true" />
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 
 ## Tech Stack
@@ -74,7 +82,11 @@ certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Career
 
@@ -127,7 +139,11 @@ certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 
 </details>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Featured Projects
 
@@ -180,7 +196,11 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 </table>
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Engineering Blog
 
@@ -192,7 +212,11 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 [![Database Article](https://img.shields.io/badge/Database%20Scaling%20on%20AWS-RDS%2C%20Aurora%20%26%20DynamoDB%20at%20Global%20Scale-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://medium.com/@shubhpandet/mastering-database-scaling-on-aws-rds-aurora-and-dynamodb-cb3c9f806969)
 
+<br/>
+
 ---
+
+<br/>
 
 ## Certifications
 
@@ -214,19 +238,27 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubh-Pandey99&bg_color=0d1117&color=6366f1&line=4f46e5&point=8b5cf6&area=true&area_color=4f46e520&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubh-Pandey99&theme=radical&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Pandey99&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=94a3b8&bg_color=00000000&langs_count=8&hide=html,css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Pandey99&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" />
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Contribution Snake
 
@@ -240,7 +272,11 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
