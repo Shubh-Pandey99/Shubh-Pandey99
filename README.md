@@ -12,42 +12,36 @@
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## <font color="#6366F1">$ whoami</font>
 
-## `$ whoami`
+<table width="100%" border="0" cellpadding="8">
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-name:       Shubh Pandey
-title:      Senior Engineer Cloud
-company:    REA Group  # realestate.com.au — AU's #1 property platform
-location:   Noida, India
-experience: 5+ years cloud-native infrastructure
+### <font color="#8B5CF6">👨‍💻 Professional Summary</font>
+- **Role:** Senior Engineer Cloud @ **REA Group**
+- **Location:** Noida, India
+- **Experience:** 5+ Years Cloud-Native Infrastructure
+- **Education:** B.Tech CS @ Jaypee Institute of Information Technology (GPA: 8.0/10)
+- **Certifications:** 11 Cloud &amp; DevOps Credentials (AWS x8, GCP x1, Azure x1, Datadog x1)
 
-career_path:
-  - Senior Engineer Cloud     @ REA Group    (Jan 2026 – Present)
-  - DevOps Engineer           @ Thales DIS   (Dec 2023 – Dec 2025)
-  - Cloud Ops Engineer        @ Thales DIS   (Aug 2021 – Dec 2023)
-  - Software Engineer Intern  @ Thales DIS   (Feb 2021 – Aug 2021)
+</td>
+<td width="50%" valign="top">
 
-education:
-  degree:      B.Tech Computer Science
-  university:  Jaypee Institute of Information Technology
-  gpa:         8.0 / 10.0
+### <font color="#8B5CF6">🎯 Specialisations &amp; Focus</font>
+- ☸️ **Zero-Trust Kubernetes** (EKS, GKE, AKS)
+- 🏗️ **Infrastructure as Code** (Terraform, Ansible, Helm)
+- 🚀 **Self-Hosted CI/CD Runner Architecture**
+- 📊 **Observability &amp; SRE** (Datadog, Prometheus, Grafana, ELK)
+- 🛡️ **Incident Engineering** (SLIs, SLOs, Error Budgets)
 
-specialisations:
-  - Platform Engineering and SRE
-  - Zero-Trust Kubernetes (EKS, GKE, AKS)
-  - Infrastructure as Code (Terraform, Ansible, Helm)
-  - Self-Hosted CI/CD Runner Architecture
-  - Observability (Datadog, Prometheus, Grafana, ELK)
-  - Incident Engineering and SLI/SLO/Error Budget
+</td>
+</tr>
+</table>
 
-certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
-```
+---
 
 <div align="center">
 
@@ -57,38 +51,29 @@ certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-
-## Tech Stack
+## <font color="#6366F1">Tech Stack</font>
 
 <div align="center">
 
-**Cloud Platforms**
+**<font color="#8B5CF6">Cloud Platforms</font>**
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3&theme=dark)](https://skillicons.dev)
 
-**Containers, Orchestration and IaC**
+**<font color="#8B5CF6">Containers, Orchestration &amp; IaC</font>**
 [![IaC](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,linux&perline=5&theme=dark)](https://skillicons.dev)
 
-**CI/CD and Observability**
+**<font color="#8B5CF6">CI/CD &amp; Observability</font>**
 [![CICD](https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,grafana,prometheus&perline=5&theme=dark)](https://skillicons.dev)
 
-**Languages and Frameworks**
+**<font color="#8B5CF6">Languages &amp; Frameworks</font>**
 [![Lang](https://skillicons.dev/icons?i=python,typescript,bash,fastapi,react,nextjs&perline=6&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## Career
+## <font color="#6366F1">Career</font>
 
 <details>
 <summary><b>REA Group &nbsp;·&nbsp; Senior Engineer Cloud &nbsp;·&nbsp; Jan 2026 – Present</b></summary>
@@ -139,20 +124,16 @@ certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 
 </details>
 
-<br/>
-
 ---
 
-<br/>
-
-## Featured Projects
+## <font color="#6366F1">Featured Projects</font>
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### [3D Developer Portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)
+### [<font color="#8B5CF6">3D Developer Portfolio</font>](https://github.com/Shubh-Pandey99/3d-portfolio)
 [![Live](https://img.shields.io/badge/Live%20Demo-3d--portfolio--pi--lac--70.vercel.app-6366F1?style=flat-square&logo=vercel)](https://3d-portfolio-pi-lac-70.vercel.app)
 
 Immersive WebGL portfolio with physics simulation, GSAP scroll, post-processing, and a 3D animated character. CI via GitHub Actions.
@@ -162,7 +143,7 @@ Immersive WebGL portfolio with physics simulation, GSAP scroll, post-processing,
 </td>
 <td width="50%" valign="top">
 
-### [Email Remediation Automation](https://github.com/Shubh-Pandey99)
+### [<font color="#8B5CF6">Email Remediation Automation</font>](https://github.com/Shubh-Pandey99)
 [![Patent](https://img.shields.io/badge/Patent%20Initiative-AWS%20Serverless-8B5CF6?style=flat-square&logo=amazonaws)](https://github.com/Shubh-Pandey99)
 
 Self-healing cloud ops pipeline — autonomous L1 incident triage, retry, and escalation using fully event-driven serverless architecture.
@@ -174,7 +155,7 @@ Self-healing cloud ops pipeline — autonomous L1 incident triage, retry, and es
 <tr>
 <td width="50%" valign="top">
 
-### [Scribe – AI Meeting Assistant](https://github.com/Shubh-Pandey99/scribe)
+### [<font color="#8B5CF6">Scribe – AI Meeting Assistant</font>](https://github.com/Shubh-Pandey99/scribe)
 [![Live](https://img.shields.io/badge/Live%20App-scribe--extension.vercel.app-A78BFA?style=flat-square&logo=googlechrome)](https://scribe-extension.vercel.app)
 
 Chrome MV3 extension — real-time audio transcription via OpenAI Whisper STT, AI summaries via Gemini 2.0 Flash, screen capture and visual analysis, Cloud Sync via MongoDB.
@@ -184,7 +165,7 @@ Chrome MV3 extension — real-time audio transcription via OpenAI Whisper STT, A
 </td>
 <td width="50%" valign="top">
 
-### [TeacherPro Attendance SaaS](https://github.com/Shubh-Pandey99/music-teacher-app)
+### [<font color="#8B5CF6">TeacherPro Attendance SaaS</font>](https://github.com/Shubh-Pandey99/music-teacher-app)
 [![Live](https://img.shields.io/badge/Live%20App-dynamic--filament.vercel.app-C4B5FD?style=flat-square&logo=vercel)](https://dynamic-filament.vercel.app/login)
 
 Full-stack SaaS: attendance tracking, performance analytics, role-based access, PWA + offline support, automated parent notifications via SNS.
@@ -196,13 +177,9 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 </table>
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## Engineering Blog
+## <font color="#6366F1">Engineering Blog</font>
 
 > Technical articles published on Medium covering AWS architecture and cloud operations
 
@@ -212,13 +189,9 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 [![Database Article](https://img.shields.io/badge/Database%20Scaling%20on%20AWS-RDS%2C%20Aurora%20%26%20DynamoDB%20at%20Global%20Scale-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://medium.com/@shubhpandet/mastering-database-scaling-on-aws-rds-aurora-and-dynamodb-cb3c9f806969)
 
-<br/>
-
 ---
 
-<br/>
-
-## Certifications
+## <font color="#6366F1">Certifications</font>
 
 <div align="center">
 
@@ -238,13 +211,9 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## Activity
+## <font color="#6366F1">Activity</font>
 
 <div align="center">
 
@@ -254,13 +223,9 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## Contribution Snake
+## <font color="#6366F1">Contribution Snake</font>
 
 <div align="center">
 
@@ -272,11 +237,7 @@ Full-stack SaaS: attendance tracking, performance analytics, role-based access, 
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 
