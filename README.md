@@ -4,15 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=false&width=700&lines=Building+zero-trust+cloud+platforms+at+REA+Group+%F0%9F%87%A6%F0%9F%87%BA;Kubernetes+%C2%B7+Terraform+%C2%B7+Datadog+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Azure;11+AWS%2FGCP%2FAzure+Certifications+%C2%B7+5%2B+Years+Production+SRE;From+SLIs+to+self-healing+infra+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=false&width=700&lines=Building+zero-trust+cloud+platforms+at+REA+Group;Kubernetes+%C2%B7+Terraform+%C2%B7+Datadog+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Azure;11+Cloud+Certifications+%C2%B7+5%2B+Years+Production+SRE;From+SLIs+to+self-healing+infra+%E2%80%94+I+build+it+all)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhpandey9-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shubhpandey9)&ensp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-SRE%20%26%20DevOps-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-six-murex-ggybbly68c.vercel.app/)&ensp;
-[![3D Portfolio](https://img.shields.io/badge/3D%20Portfolio-Interactive-8B5CF6?style=flat-square&logo=three.js&logoColor=white)](https://3d-portfolio-pi-lac-70.vercel.app)&ensp;
-[![Credly](https://img.shields.io/badge/Credly-11%20Verified%20Certs-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/shubh-pandey)&ensp;
-[![Email](https://img.shields.io/badge/Email-shubhpandet@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhpandet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhpandey9-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shubhpandey9)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-SRE%20%26%20DevOps-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-six-murex-ggybbly68c.vercel.app/)&ensp;[![3D Portfolio](https://img.shields.io/badge/3D%20Portfolio-Interactive-8B5CF6?style=flat-square&logo=three.js&logoColor=white)](https://3d-portfolio-pi-lac-70.vercel.app)&ensp;[![Medium](https://img.shields.io/badge/Medium-Engineering%20Blog-00ab6c?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@shubhpandet)&ensp;[![Email](https://img.shields.io/badge/Email-shubhpandet@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhpandet@gmail.com)
 
 </div>
 
@@ -28,29 +24,29 @@
 name:       Shubh Pandey
 title:      Senior Engineer Cloud
 company:    REA Group  # realestate.com.au — AU's #1 property platform
-location:   Noida, India 🇮🇳
-experience: 5+ years in cloud-native infrastructure
+location:   Noida, India
+experience: 5+ years cloud-native infrastructure
 
 career_path:
-  - Senior Engineer Cloud      @ REA Group       (2026 – Present)
-  - DevOps Engineer            @ Thales DIS       (2023 – 2025)
-  - Cloud Operations Engineer  @ Thales DIS       (2021 – 2023)
+  - Senior Engineer Cloud     @ REA Group    (Jan 2026 – Present)
+  - DevOps Engineer           @ Thales DIS   (Dec 2023 – Dec 2025)
+  - Cloud Ops Engineer        @ Thales DIS   (Aug 2021 – Dec 2023)
+  - Software Engineer Intern  @ Thales DIS   (Feb 2021 – Aug 2021)
 
 education:
   degree:      B.Tech Computer Science
   university:  Jaypee Institute of Information Technology
   gpa:         8.0 / 10.0
-  year:        2021
 
 specialisations:
-  - Platform Engineering & SRE
-  - Zero-Trust Kubernetes on EKS / GKE / AKS
-  - Infrastructure as Code (Terraform · Ansible · Helm)
-  - CI/CD Architecture & Self-Hosted Runners
-  - Observability (Datadog · Prometheus · Grafana · ELK)
-  - Incident Engineering & SLI/SLO/Error Budget
+  - Platform Engineering and SRE
+  - Zero-Trust Kubernetes (EKS, GKE, AKS)
+  - Infrastructure as Code (Terraform, Ansible, Helm)
+  - Self-Hosted CI/CD Runner Architecture
+  - Observability (Datadog, Prometheus, Grafana, ELK)
+  - Incident Engineering and SLI/SLO/Error Budget
 
-certifications: 11  # AWS · GCP · Azure · Datadog
+certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 ```
 
 </td>
@@ -82,33 +78,33 @@ certifications: 11  # AWS · GCP · Azure · Datadog
 </td>
 <td align="center" width="190">
 <img src="https://img.shields.io/badge/20%25-Infra%20Cost%20Cut-8B5CF6?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>IBM Sterling containerisation on EKS at Thales</sub>
+<sub>IBM Sterling containerisation on EKS</sub>
 </td>
 <td align="center" width="190">
 <img src="https://img.shields.io/badge/40%25-Deploy%20Time%20Reduced-A78BFA?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>Ansible playbooks across 10+ servers</sub>
+<sub>Ansible across 10+ servers at Thales</sub>
 </td>
 <td align="center" width="190">
 <img src="https://img.shields.io/badge/28%25-Cloud%20Downtime%20Cut-C4B5FD?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS auto-scaling & fault-tolerance work</sub>
+<sub>AWS auto-scaling and fault tolerance</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="190">
 <img src="https://img.shields.io/badge/30%25-UI%20Perf%20Gain-818CF8?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>Vue.js on S3+CloudFront at Thales</sub>
+<sub>Vue.js on S3 plus CloudFront at Thales</sub>
 </td>
 <td align="center" width="190">
 <img src="https://img.shields.io/badge/29%25-Build%20Failures%20Fixed-7C3AED?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS credential retry fix in Shipper @ REA</sub>
+<sub>AWS credential retry fix in Shipper at REA</sub>
 </td>
 <td align="center" width="190">
-<img src="https://img.shields.io/badge/11-Cloud%20Certifications-4F46E5?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS · GCP · Azure · Datadog</sub>
+<img src="https://img.shields.io/badge/100%25-OIDC%20CI%20Adoption-4F46E5?style=for-the-badge&labelColor=1e293b" /><br/>
+<sub>Zero static AWS keys in Kubernetes CI</sub>
 </td>
 <td align="center" width="190">
-<img src="https://img.shields.io/badge/5%2B-Years%20Cloud%20SRE-6D28D9?style=for-the-badge&labelColor=1e293b" /><br/>
-<sub>AWS · GCP · Azure production systems</sub>
+<img src="https://img.shields.io/badge/11-Cloud%20Certifications-6D28D9?style=for-the-badge&labelColor=1e293b" /><br/>
+<sub>AWS x8, GCP, Azure, Datadog — all verified</sub>
 </td>
 </tr>
 </table>
@@ -121,70 +117,70 @@ certifications: 11  # AWS · GCP · Azure · Datadog
 
 <div align="center">
 
-**Cloud & Infrastructure**
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,linux&perline=6&theme=dark)](https://skillicons.dev)
+**Cloud Platforms**
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3&theme=dark)](https://skillicons.dev)
 
-**Containers & Orchestration**
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,helm,githubactions,gitlab,jenkins&perline=6&theme=dark)](https://skillicons.dev)
+**Containers, Orchestration and IaC**
+[![IaC](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,helm,linux&perline=6&theme=dark)](https://skillicons.dev)
 
-**Languages & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,bash,fastapi,react,nextjs&perline=6&theme=dark)](https://skillicons.dev)
+**CI/CD and Observability**
+[![CICD](https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,grafana,prometheus&perline=5&theme=dark)](https://skillicons.dev)
 
-**Observability & Data**
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,postgres,redis,kafka&perline=5&theme=dark)](https://skillicons.dev)
+**Languages and Frameworks**
+[![Lang](https://skillicons.dev/icons?i=python,typescript,bash,fastapi,react,nextjs&perline=6&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Career Timeline
+## Career
 
 <details>
-<summary><b>🏢 Senior Engineer Cloud · REA Group · 2026 – Present</b></summary>
+<summary><b>REA Group &nbsp;·&nbsp; Senior Engineer Cloud &nbsp;·&nbsp; Jan 2026 – Present</b></summary>
 <br/>
 
-> Australia's #1 property marketplace — operating at national scale
+> Australia's #1 property marketplace — operating at national scale in Gurugram, India
 
-- Fixed AWS instance-profile credential timeout/retry in **Shipper**, resolving a failure mode affecting **~29% of builds** in high-volume pipelines
+- Fixed AWS instance-profile credential timeout/retry in **Shipper**, resolving a failure mode that affected **~29% of builds** in high-volume pipelines
 - Designed **self-hosted GitHub Actions runner architecture** on Kubernetes with ephemeral auto-scaling, network-zone segmentation, and secure container-mode execution
-- Implemented **zero-trust CI cloud access** — removed pod-level AWS permissions, adopted OIDC-based short-lived credentials for job-level access
-- Drove **ARM64/Graviton-first runner sizing** strategy to optimise cost and performance of runner infrastructure
+- Implemented **zero-trust CI cloud access** — removed pod-level AWS permissions, adopted OIDC short-lived credentials for every job
+- Drove **ARM64/Graviton-first runner sizing** strategy to optimise cost and performance
 - Built **cross-cluster PaaS observability** with synthetic checks and SLI-oriented validation for custom-resource lifecycle and connectivity paths
 
 </details>
 
 <details>
-<summary><b>🏢 DevOps Engineer · Thales Digital Identity & Security · 2023 – 2025</b></summary>
+<summary><b>Thales Digital Identity &amp; Security &nbsp;·&nbsp; DevOps Engineer &nbsp;·&nbsp; Dec 2023 – Dec 2025</b></summary>
 <br/>
 
-> Global cybersecurity leader — securing digital identity for governments and enterprises
+> Global cybersecurity leader — securing digital identity for governments and enterprises in Noida, India
 
-- Maintained **99.9% availability** across the Thales Secure File Transfer (TSFT) platform serving **500+ global enterprise customers**, enforcing SLIs, SLOs, and error budgets
-- Built Vue.js + TypeScript frontend portals on **S3 + CloudFront**, improving UI performance by **30%**
-- Centralised observability with **CloudWatch, OpenSearch/ELK, Grafana** — unified dashboards for metrics, logs, and traces; integrated EventBridge + Step Functions + PagerDuty
-- Containerised **IBM Sterling Connect:Direct** with Docker, deployed on EKS — cut infra costs by **20%**
-- Provisioned full AWS infrastructure via Terraform: Lambda, API Gateway, Step Functions, Cognito, DynamoDB, Transfer Family
-- Engineered **serverless backend services** with FastAPI on AWS Lambda (Python)
+- Maintained **99.9% availability** on Thales Secure File Transfer (TSFT) across **500+ global enterprise customers** with enforced SLIs, SLOs, and error budgets
+- Built Vue.js + TypeScript frontend portals on **S3 + CloudFront**, boosting UI performance by **30%**
+- Centralised observability: **CloudWatch, OpenSearch/ELK, Grafana** unified dashboards; integrated EventBridge + Step Functions + PagerDuty
+- Containerised **IBM Sterling Connect:Direct** with Docker on EKS — cut infra costs by **20%**
+- Provisioned full AWS stack via Terraform: Lambda, API Gateway, Step Functions, Cognito, DynamoDB, Transfer Family
+- Engineered **serverless backend** with FastAPI on AWS Lambda (Python)
 
 </details>
 
 <details>
-<summary><b>🏢 Cloud Operations Engineer · Thales Digital Identity & Security · 2021 – 2023</b></summary>
+<summary><b>Thales Digital Identity &amp; Security &nbsp;·&nbsp; Cloud Operations Engineer &nbsp;·&nbsp; Aug 2021 – Dec 2023</b></summary>
 <br/>
 
-- Managed AWS services (EC2, RDS, S3, VPC) with focus on fault tolerance and auto-scaling — **reduced cloud downtime by 28%**
-- Configured **Datadog + Prometheus** monitoring pipelines, defined SLIs, automated alerts and log rotation — improved observability by **15%**
-- Created **Ansible playbooks** for system configuration and dependency management — cut deployment time **40%** across 10+ servers
-- Participated in on-call rotations: escalations, network diagnostics, and post-incident RCAs
+- Managed AWS (EC2, RDS, S3, VPC) with focus on fault tolerance and auto-scaling — **reduced cloud downtime by 28%**
+- Configured **Datadog + Prometheus** monitoring, defined SLIs, automated alerts and log rotation — **+15% observability coverage**
+- Built **Ansible playbooks** for configuration and dependency management — cut deployment time **40%** across 10+ servers
+- On-call rotations: escalations, network diagnostics, and post-incident RCAs
 
 </details>
 
 <details>
-<summary><b>🎓 Software Engineer Intern · Thales Digital Identity & Security · Feb – Aug 2021</b></summary>
+<summary><b>Thales Digital Identity &amp; Security &nbsp;·&nbsp; Software Engineer Intern &nbsp;·&nbsp; Feb – Aug 2021</b></summary>
 <br/>
 
-- Engineered a secure Apple backend payload encryption system using **Java Cryptography Architecture (JCA)** — enhanced Visa transaction security and minimised breach surface
-- Executed 50+ functional test cases — improved test coverage by **25%** and identified critical pre-deployment bugs
+- Engineered Apple backend payload encryption using **Java Cryptography Architecture (JCA)** for Visa transaction security
+- Executed 50+ functional test cases — improved test coverage by **25%** and caught critical pre-deployment bugs
 
 </details>
 
@@ -193,60 +189,65 @@ certifications: 11  # AWS · GCP · Azure · Datadog
 ## Featured Projects
 
 <div align="center">
-
 <table border="0" width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### ✦ [3D Developer Portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-vercel.app-6366F1?style=flat-square&logo=vercel)](https://3d-portfolio-pi-lac-70.vercel.app)
+### [3D Developer Portfolio](https://github.com/Shubh-Pandey99/3d-portfolio)
+[![Live](https://img.shields.io/badge/Live%20Demo-3d--portfolio--pi--lac--70.vercel.app-6366F1?style=flat-square&logo=vercel)](https://3d-portfolio-pi-lac-70.vercel.app)
 
-Immersive WebGL portfolio with physics simulation, GSAP scroll animations, post-processing effects, and 3D character. Deployed via GitHub Actions → Vercel.
+Immersive WebGL portfolio with physics simulation, GSAP scroll, post-processing, and a 3D animated character. CI via GitHub Actions.
 
-`Three.js` · `React Three Fiber` · `TypeScript` · `GSAP` · `Vite`
+`Three.js` `React Three Fiber` `TypeScript` `GSAP` `Vite`
 
 </td>
-
 <td width="50%" valign="top">
 
-### ✦ [Email Remediation Automation](https://github.com/Shubh-Pandey99)
+### [Email Remediation Automation](https://github.com/Shubh-Pandey99)
+[![Patent](https://img.shields.io/badge/Patent%20Initiative-AWS%20Serverless-8B5CF6?style=flat-square&logo=amazonaws)](https://github.com/Shubh-Pandey99)
 
-Self-healing cloud ops pipeline — automated email failure triage, retry, and escalation using a fully serverless AWS event-driven architecture.
+Self-healing cloud ops pipeline — autonomous L1 incident triage, retry, and escalation using fully event-driven serverless architecture.
 
-`AWS Step Functions` · `Lambda (Python)` · `EventBridge` · `DynamoDB` · `SNS`
+`AWS Step Functions` `Lambda (Python)` `EventBridge` `DynamoDB` `API Gateway`
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
-### ✦ [Scribe – AI Meeting Assistant](https://github.com/Shubh-Pandey99/scribe)
-[![Live](https://img.shields.io/badge/▶%20Live%20App-vercel.app-8B5CF6?style=flat-square&logo=vercel)](https://scribe-extension.vercel.app)
+### [Scribe – AI Meeting Assistant](https://github.com/Shubh-Pandey99/scribe)
+[![Live](https://img.shields.io/badge/Live%20App-scribe--extension.vercel.app-A78BFA?style=flat-square&logo=googlechrome)](https://scribe-extension.vercel.app)
 
-Chrome MV3 extension that transcribes meetings in real-time using OpenAI Whisper STT and generates structured summaries via Gemini 2.0 Flash. Stateless, serverless backend.
+Chrome MV3 extension — real-time audio transcription via OpenAI Whisper STT, AI summaries via Gemini 2.0 Flash, screen capture and visual analysis, Cloud Sync via MongoDB.
 
-`Chrome Extension MV3` · `OpenAI Whisper` · `Gemini 2.0` · `FastAPI` · `Vercel`
+`Chrome Extension MV3` `OpenAI Whisper` `Gemini 2.0` `Flask` `Vercel`
 
 </td>
-
 <td width="50%" valign="top">
 
-### ✦ [TeacherPro Attendance SaaS](https://github.com/Shubh-Pandey99/music-teacher-app)
-[![Live](https://img.shields.io/badge/▶%20Live%20App-vercel.app-A78BFA?style=flat-square&logo=vercel)](https://dynamic-filament.vercel.app/login)
+### [TeacherPro Attendance SaaS](https://github.com/Shubh-Pandey99/music-teacher-app)
+[![Live](https://img.shields.io/badge/Live%20App-dynamic--filament.vercel.app-C4B5FD?style=flat-square&logo=vercel)](https://dynamic-filament.vercel.app/login)
 
-Full-stack SaaS for attendance tracking, student performance analytics, and billing. Firebase Auth + Firestore, real-time dashboards.
+Full-stack SaaS: attendance tracking, performance analytics, role-based access, PWA + offline support, automated parent notifications via SNS.
 
-`React (Vite)` · `Firebase Auth/Firestore` · `Node.js` · `Tailwind CSS`
+`React (Vite)` `Firebase Auth/Firestore` `Node.js` `Tailwind CSS`
 
 </td>
-
 </tr>
 </table>
-
 </div>
+
+---
+
+## Engineering Blog
+
+> Technical articles published on Medium covering AWS architecture and cloud operations
+
+[![SSM Article](https://img.shields.io/badge/AWS%20Systems%20Manager%20(SSM)-Ultimate%20Guide%20to%20Secure%20Cloud%20Ops-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://medium.com/@shubhpandet/%EF%B8%8F-aws-systems-manager-ssm-the-ultimate-tool-for-secure-and-automated-cloud-operations-fbe47b9f4539)
+
+[![Monitoring Article](https://img.shields.io/badge/Mastering%20AWS%20Monitoring-CloudWatch%2C%20EventBridge%20%26%20Observability%20Patterns-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://medium.com/@shubhpandet/mastering-aws-monitoring-your-guide-to-observability-with-cloudwatch-and-beyond-a4dfec196726)
+
+[![Database Article](https://img.shields.io/badge/Database%20Scaling%20on%20AWS-RDS%2C%20Aurora%20%26%20DynamoDB%20at%20Global%20Scale-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://medium.com/@shubhpandet/mastering-database-scaling-on-aws-rds-aurora-and-dynamodb-cb3c9f806969)
 
 ---
 
@@ -254,19 +255,19 @@ Full-stack SaaS for attendance tracking, student performance analytics, and bill
 
 <div align="center">
 
-| &nbsp; | Certification | Validity | Verify |
+| Badge | Certification | Valid | Verify |
 |:---:|:---|:---:|:---:|
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified DevOps Engineer – Professional** | 2025 – 2028 | [↗ Credly](https://www.credly.com/badges/1b93a0ed-8a58-46d8-9489-e23bc97a3645/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Generative AI Developer – Professional** | 2025 – 2028 | [↗ Credly](https://www.credly.com/badges/bb57e8ba-d7a9-4043-b738-4261fc40c32c/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified GenAI Developer – Early Adopter** | 2025 – Lifetime | [↗ Credly](https://www.credly.com/badges/128a45fa-ae46-4026-b76c-321391c524b5/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified SysOps Administrator – Associate** | 2026 – 2029 | [↗ Credly](https://www.credly.com/badges/4c2a0cb4-2594-416a-9a4d-f820f01858f1/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Developer – Associate** | 2026 – 2029 | [↗ Credly](https://www.credly.com/badges/844595a4-f38a-4447-b191-8a7a86c9b15a/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Solutions Architect – Associate** | 2023 – 2026 | [↗ Credly](https://www.credly.com/badges/df778dc8-7450-4016-bcc1-f7c8b7315304/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified AI Practitioner** | 2025 – 2028 | [↗ Credly](https://www.credly.com/badges/5218e26e-9f2d-4dc2-8c3f-40ffd021661d/public_url) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Cloud Practitioner** | 2025 – 2028 | [↗ Credly](https://www.credly.com/badges/677da2d9-3f70-4b98-b4c7-b3244c66c8de/public_url) |
-| <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> | **GCP Associate Cloud Engineer** | 2023 – 2026 | [↗ Credly](https://www.credly.com/badges/beb65be5-586a-48c1-909a-b10e51dfe61f/public_url) |
-| <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" /> | **Datadog Fundamentals** | 2025 – 2028 | [↗ Credly](https://www.credly.com/badges/8c7e79d3-5a4a-4f2a-9b1c-d1e5f6a7b8c9/public_url) |
-| <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /> | **Microsoft Azure Fundamentals (AZ-900)** | 2022 – Lifetime | [↗ Credly](https://www.credly.com/badges/a2b3c4d5-e6f7-8901-abcd-ef1234567890/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified DevOps Engineer – Professional** | 2025 – 2028 | [Credly](https://www.credly.com/badges/1b93a0ed-8a58-46d8-9489-e23bc97a3645/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Generative AI Developer – Professional** | 2025 – 2028 | [Credly](https://www.credly.com/badges/bb57e8ba-d7a9-4043-b738-4261fc40c32c/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified GenAI Developer – Early Adopter** | 2025 – Lifetime | [Credly](https://www.credly.com/badges/128a45fa-ae46-4026-b76c-321391c524b5/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified SysOps Administrator – Associate** | 2026 – 2029 | [Credly](https://www.credly.com/badges/4c2a0cb4-2594-416a-9a4d-f820f01858f1/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Developer – Associate** | 2026 – 2029 | [Credly](https://www.credly.com/badges/844595a4-f38a-4447-b191-8a7a86c9b15a/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Solutions Architect – Associate** | 2023 – 2026 | [Credly](https://www.credly.com/badges/df778dc8-7450-4016-bcc1-f7c8b7315304/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified AI Practitioner** | 2025 – 2028 | [Credly](https://www.credly.com/badges/5218e26e-9f2d-4dc2-8c3f-40ffd021661d/public_url) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> | **AWS Certified Cloud Practitioner** | 2025 – 2028 | [Credly](https://www.credly.com/badges/677da2d9-3f70-4b98-b4c7-b3244c66c8de/public_url) |
+| <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> | **GCP Associate Cloud Engineer** | 2023 – 2026 | [Credly](https://www.credly.com/badges/beb65be5-586a-48c1-909a-b10e51dfe61f/public_url) |
+| <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" /> | **Datadog Fundamentals** | 2025 – 2028 | [Credly](https://www.credly.com/badges/c8a7a3ee-ef4c-429e-b0be-1148a2b66b8b/public_url) |
+| <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /> | **Microsoft Azure Fundamentals (AZ-900)** | 2022 – Lifetime | [Credly](https://www.credly.com/badges/cf778dc8-7450-4016-bcc1-f7c8b7315304/public_url) |
 
 </div>
 
@@ -306,8 +307,7 @@ Open to senior and staff-level Cloud / Platform / SRE roles
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhpandey9)&ensp;
-[![Email](https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhpandet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhpandey9)&ensp;[![Email](https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhpandet@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=80&section=footer" width="100%" />
 
