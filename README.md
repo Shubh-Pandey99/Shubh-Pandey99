@@ -64,7 +64,7 @@ certifications: 11  # AWS x8, GCP x1, Azure x1, Datadog x1
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3&theme=dark)](https://skillicons.dev)
 
 **Containers, Orchestration and IaC**
-[![IaC](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,helm,linux&perline=6&theme=dark)](https://skillicons.dev)
+[![IaC](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,linux&perline=5&theme=dark)](https://skillicons.dev)
 
 **CI/CD and Observability**
 [![CICD](https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,grafana,prometheus&perline=5&theme=dark)](https://skillicons.dev)
